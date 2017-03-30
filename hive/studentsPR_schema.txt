@@ -1,0 +1,8 @@
+Tiene 7 columnas:
+0 - Region de la Escuela donde asiste
+1 - Distrito escolar de la escuela donde asiste
+2 - Numero de identificacion de la escuela donde asiste
+3 - Nombre de la escuela donde asiste
+4 - Nivel de la escuela
+5 - Sexo del estudiante (M o F)
+6 - Numero de indentificacion del estudiante

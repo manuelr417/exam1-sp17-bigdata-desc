@@ -1,0 +1,9 @@
+Tiene 7 columnas:
+0 - Region Educativa
+1 - Distrito Escolar
+2 - Ciudad (Municipio)
+3 - Numero de Indentificacion de la Escuela
+4 - Nombre de la Escuela
+5 - Nivel de la Escuela (Superior, Secundaria, Elemental, Segunda Unidad)
+6 - Numero de Serie segun College Board Puerto Rico
+
