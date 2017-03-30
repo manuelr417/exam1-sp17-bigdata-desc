@@ -1,2 +1,2 @@
 # exam1-sp17-bigdata-desc
-exam 1 Spring 17 big data description
+This is the repo for exam1 of the Big Data Course.
